@@ -1,0 +1,241 @@
+body{
+    font-family: cursive;
+    text-align: center;
+}
+#Sec1{
+       height: 600px;
+       background: rgb(0,73,252);
+       background: linear-gradient(0deg, rgba(0,73,252,1) 9%, rgba(255,0,0,1) 45%, rgba(255,255,255,1) 74%);
+}
+#Avengers{
+    margin-top: 180px;
+    height: 200px;
+    width: 700px;
+}
+#Grid-Gallery-P{
+    margin-top: 30px;
+}
+#SG{
+    margin-top: 60px;
+}
+#Thor{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Captain-Marvel{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Captain-America{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Iron-Man{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Hulk{
+    height: 100px; 
+    width: 100px;
+    object-fit: cover;
+}
+#Black-Widow{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Hawkeye{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Ant-Man{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Black-Panther{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Doctor-Strange{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Vision{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Scarlet-Witch{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Star-Lord{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Gamora{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Drax{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#Spider-Man{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}#Thor2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Captain-Marvel2{
+   height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Captain-America2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Iron-Man2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Hulk2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Black-Widow2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Hawkeye2{
+   height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Ant-Man2{
+   height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Black-Panther2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Doctor-Strange2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Vision2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Scarlet-Witch2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Star-Lord2{
+   height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Gamora2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Drax2{
+    height: 600px;
+    width: 600px;
+    object-fit: cover;
+}
+#Spider-Man2{
+   height: 600px;
+    width: 600px;
+    object-fit: cover;;
+}
+.carousel{
+    height: 10px;
+    width: 10%;
+}
+.carousel_image{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
+.carousel_track-container{
+    height: 104%;
+    width: 500px;
+    position: relative;
+    background-color: aqua;
+   
+}
+.carousel_track{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.carousel_slide{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
+.carousel_button{
+    top:50%;
+    transform:translateY(-50%);
+    background-color:transparent;
+    border:0;
+    cursor: pointer;
+}
+.carousel_button--left{
+    margin-right:800px;
+    top:-50%;
+    width:50px;
+    height:50px;
+    margin-top: 200px;
+}
+.carousel_button--right{
+  margin-right:800px;
+    top:-50%;
+    width:50px;
+    height:50px;
+    margin-top: 200px;
+}
+.carousel_nav {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.carousel_indicators{
+    border: 0;
+    border-radius: 50%; 
+    width: 15px;
+    height: 15px;
+    background-color: blue;
+    
+}
